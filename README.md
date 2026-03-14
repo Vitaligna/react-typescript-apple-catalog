@@ -1,6 +1,5 @@
 🍎 Apple Catalog Project 📱
 
-
 🚀 Demo
 
 👉 You can view a live demo of the project here: DEMO LINK
@@ -9,14 +8,16 @@
 
 This project is an Apple products catalog built using React and TypeScript. The main goal of the project is to practice building a modern single-page application (SPA), working with React components, routing and application state management. The project was created as part of the Mate Academy Frontend course. The application allows users to browse Apple products, view product details, and navigate through different pages using client-side routing.
 
-🛠 The catalog includes several main features such as: 📦
+📦 The catalog includes several main features such as:
 
 Product catalog page;
 Product details page;
 Navigation between pages using React Router;
 Filtering and sorting products;
 Responsive layout for different screen sizes.
-Technologies used:
+
+🛠 Technologies used:
+
 React – building the user interface;
 TypeScript – static typing for safer code;
 React Router – client-side routing;
@@ -41,8 +42,16 @@ public/ – static assets
 
 ⚙️ Installation and setup:
 
-Clone the repository git clone https://github.com/Vitaligna/react-typescript-apple-catalog.git
-Go to the project folder cd react-typescript-apple-catalog
-Install dependencies npm install
-Run the project locally npm start
+1. Clone the repository
+   git clone https://github.com/Vitaligna/react-typescript-apple-catalog.git
+
+2. Go to the project folder
+   cd react-typescript-apple-catalog
+
+3. Install dependencies
+   npm install
+
+4. Run the project locally
+   npm start
+
 The development server will start and the project will open in your browser.
