@@ -1,5 +1,6 @@
 🍎 Apple Catalog Project 📱
 
+
 🚀 Demo
 
 👉 You can view a live demo of the project here: DEMO LINK
@@ -23,7 +24,8 @@ SCSS (Sass) – styling and modular CSS structure;
 Vite – fast development build tool;
 ESLint & Stylelint – code quality and linting;
 Cypress – end-to-end testing.
-📂 Project structure:
+
+📂 Project Structure:
 
 src/ components/ – reusable React components
 
