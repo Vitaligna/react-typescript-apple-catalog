@@ -23,12 +23,12 @@ export const appReducer = (state: State, action: Action) => {
     case 'REMOVE_FROM_CART':
       return {
         ...state,
-        cart: state.cart.filter(item => item.id !== action.payload),
+        cart: state.cart.filter((item) => item.id !== action.payload),
       };
     case 'CHANGE_QUANTITY':
       return {
         ...state,
-        cart: state.cart.map(item => {
+        cart: state.cart.map((item) => {
           if (item.id === action.payload.id) {
             return {
               ...item,
@@ -47,7 +47,7 @@ export const appReducer = (state: State, action: Action) => {
       return {
         ...state,
         favourites: state.favourites.filter(
-          item => item.itemId !== action.payload,
+          (item) => item.itemId !== action.payload
         ),
       };
     default:

@@ -68,7 +68,7 @@ export const Header = ({ showSearch }: HeaderProps) => {
             </Link>
           </div>
           <ul className={styles.list}>
-            {navigationItems.map(item => (
+            {navigationItems.map((item) => (
               <li key={item} className={styles.list__item}>
                 <NavLink to={navigationPaths[item]} className={getNavLinkMenu}>
                   {item}
@@ -145,7 +145,7 @@ export const Header = ({ showSearch }: HeaderProps) => {
               <img
                 className={classNames(
                   styles.navigationMenu__img,
-                  styles['navigationMenu__img--theme'],
+                  styles['navigationMenu__img--theme']
                 )}
                 src={getAssetUrl('icons/theme.svg')}
                 alt=""
