@@ -2,7 +2,8 @@
 
 🚀 Demo
 
-👉 You can view a live demo of the project here: DEMO LINK
+👉 You can view a live demo of the project here:
+[DEMO LINK](https://Vitaligna.github.io/react-typescript-apple-catalog/)
 
 📄 Project Description
 
