@@ -36,7 +36,7 @@ This project is an Apple products catalog built using React and TypeScript. The 
 
 - Cypress – end-to-end testing.
 
-📂 Project Structure:
+📂 Project structure:
 
 - src/ components/ – reusable React components
 
