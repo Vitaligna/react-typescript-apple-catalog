@@ -10,35 +10,45 @@ This project is an Apple products catalog built using React and TypeScript. The 
 
 📦 The catalog includes several main features such as:
 
-Product catalog page;
-Product details page;
-Navigation between pages using React Router;
-Filtering and sorting products;
-Responsive layout for different screen sizes.
+- Product catalog page;
+
+- Product details page;
+
+- Navigation between pages using React Router;
+
+- Filtering and sorting products;
+
+- Responsive layout for different screen sizes.
 
 🛠 Technologies used:
 
-React – building the user interface;
-TypeScript – static typing for safer code;
-React Router – client-side routing;
-SCSS (Sass) – styling and modular CSS structure;
-Vite – fast development build tool;
-ESLint & Stylelint – code quality and linting;
-Cypress – end-to-end testing.
+- React – building the user interface;
+
+- TypeScript – static typing for safer code;
+
+- React Router – client-side routing;
+
+- SCSS (Sass) – styling and modular CSS structure;
+
+- Vite – fast development build tool;
+
+- ESLint & Stylelint – code quality and linting;
+
+- Cypress – end-to-end testing.
 
 📂 Project Structure:
 
-src/ components/ – reusable React components
+- src/ components/ – reusable React components
 
-pages/ – application pages
+- pages/ – application pages
 
-styles/ – SCSS styles
+- styles/ – SCSS styles
 
-types/ – TypeScript types
+- types/ – TypeScript types
 
-utils/ – helper functions
+- utils/ – helper functions
 
-public/ – static assets
+- public/ – static assets
 
 ⚙️ Installation and setup:
 
