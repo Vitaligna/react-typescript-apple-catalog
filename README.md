@@ -39,9 +39,9 @@ This project is an Apple products catalog built using React and TypeScript. The 
 
 📂 Project Structure:
 
-public/ – static assets
+- public/ – static assets
 
-src/
+- src/
 
 components/ – reusable React components
 
